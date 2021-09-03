@@ -1,0 +1,33 @@
+:root
+{
+    background-color: #000000;
+}
+.logo-row{
+    width: 700px;
+    margin: 0 auto;
+}
+#logo {
+    display: grid;
+    text-align: center;
+    max-width: 500px;
+    max-height: 300px;
+}
+
+.container input{
+    text-align: center;
+}
+.container button{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.pokemon{
+    width: 150px;
+    height: 150px;
+    margin: 40px auto;
+    display: inline-block;
+}
+.text-white{
+    text-align: left;
+    color: #ffff00;
+
+}
